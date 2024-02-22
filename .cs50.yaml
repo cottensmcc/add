@@ -1,0 +1,7 @@
+check50:
+  checks:
+    add:
+      - run: ./a.out
+        stdout: 
+          15
+        exit: 0
